@@ -1,0 +1,44 @@
+#root {
+  max-width: 1280px;         /* Ancho máximo de la página */
+  margin: 0 auto;            /* Centrado horizontal */
+  padding: 2rem;             /* Espaciado interno */
+  text-align: center;        /* Centra el texto */
+}
+
+.logo {
+  height: 6em;               /* Altura del logo */
+  padding: 1.5em;            /* Espaciado alrededor */
+  will-change: filter;       /* Optimiza para futuras animaciones de filtro */
+  transition: filter 300ms;  /* Transición suave al aplicar filtro */
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa); /* Sombra azul grisácea */
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa); /* Sombra azul celeste (color React) */
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);     /* Inicio de la rotación */
+  }
+  to {
+    transform: rotate(360deg);   /* Fin de la rotación */
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear; /* Gira el logo cada 20s */
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888; /* Gris claro */
+}

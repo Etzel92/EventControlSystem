@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41EE75F8-FE2F-43AB-B355-AB7E478246E1}|EventControl.API\\EventControl.API.csproj|d:\\documentos\\git\\pruebatecnicastoreintelligence\\eventcontrol\\eventcontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EE75F8-FE2F-43AB-B355-AB7E478246E1}|EventControl.API\\EventControl.API.csproj|solutionrelative:eventcontrol.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EE75F8-FE2F-43AB-B355-AB7E478246E1}|EventControl.API\\EventControl.API.csproj|d:\\documentos\\git\\pruebatecnicastoreintelligence\\eventcontrol\\eventcontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41EE75F8-FE2F-43AB-B355-AB7E478246E1}|EventControl.API\\EventControl.API.csproj|solutionrelative:eventcontrol.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventControl\\EventControl.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventControl.API\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventControl\\EventControl.API\\Program.cs",
+              "RelativeToolTip": "EventControl.API\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:10:33.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventControl\\EventControl.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventControl.API\\appsettings.json",
+              "ToolTip": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventControl\\EventControl.API\\appsettings.json",
+              "RelativeToolTip": "EventControl.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T23:10:53.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

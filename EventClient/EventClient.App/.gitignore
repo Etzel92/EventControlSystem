@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.exe
+*.dll
+
+# IDE
+*.user
+*.suo
+.vscode/
+
+# logs
+*.log
+

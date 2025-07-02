@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|d:\\documentos\\git\\pruebatecnicastoreintelligence\\eventclient\\eventclient.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|solutionrelative:eventclient.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|d:\\documentos\\git\\pruebatecnicastoreintelligence\\eventclient\\eventclient.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|solutionrelative:eventclient.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|d:\\documentos\\git\\pruebatecnicastoreintelligence\\eventclient\\eventclient.app\\service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|solutionrelative:eventclient.app\\service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|d:\\documentos\\git\\pruebatecnicastoreintelligence\\eventclient\\eventclient.app\\data\\eventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|solutionrelative:eventclient.app\\data\\eventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|d:\\documentos\\git\\pruebatecnicastoreintelligence\\eventclient\\eventclient.app\\secondaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC16BD7-24BD-4292-ADAE-A7ED9A71F6A6}|EventClient.App\\EventClient.App.csproj|solutionrelative:eventclient.app\\secondaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\MainForm.cs",
+              "RelativeDocumentMoniker": "EventClient.App\\MainForm.cs",
+              "ToolTip": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\MainForm.cs",
+              "RelativeToolTip": "EventClient.App\\MainForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:32:44.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\Service\\EventService.cs",
+              "RelativeDocumentMoniker": "EventClient.App\\Service\\EventService.cs",
+              "ToolTip": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\Service\\EventService.cs",
+              "RelativeToolTip": "EventClient.App\\Service\\EventService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:15:53.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventLogger.cs",
+              "DocumentMoniker": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\Data\\EventLogger.cs",
+              "RelativeDocumentMoniker": "EventClient.App\\Data\\EventLogger.cs",
+              "ToolTip": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\Data\\EventLogger.cs",
+              "RelativeToolTip": "EventClient.App\\Data\\EventLogger.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:29:28.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondaryForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\SecondaryForm.cs",
+              "RelativeDocumentMoniker": "EventClient.App\\SecondaryForm.cs",
+              "ToolTip": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\SecondaryForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EventClient.App\\SecondaryForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:13:47.547Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\MainForm.cs",
+              "RelativeDocumentMoniker": "EventClient.App\\MainForm.cs",
+              "ToolTip": "D:\\Documentos\\Git\\PruebaTecnicaStoreIntelligence\\EventClient\\EventClient.App\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EventClient.App\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:13:37.759Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

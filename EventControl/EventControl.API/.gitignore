@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.exe
+*.dll
+
+# IDE
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Otros
+*.log
+*.db
+.env

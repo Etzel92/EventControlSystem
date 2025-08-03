@@ -88,4 +88,5 @@ npm run dev
 
 ---
 
-© 2025 Miguel Etzel García Delgado
+🔒 **Nota**: Este proyecto fue realizado como parte de una prueba técnica. Su contenido es de carácter demostrativo y no está autorizado para su reutilización sin permiso.
+© 2025 Miguel Etzel García Delgado. Todos los derechos reservados
